@@ -1,0 +1,15 @@
+:host .card {
+    background-color: #f0f0f0;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+  }
+  
+  :host .card-title {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  :host .card-text {
+    color: #333;
+  }
+  

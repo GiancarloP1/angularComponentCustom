@@ -1,0 +1,18 @@
+/* Personalización del <p-card> en PrimeNG */
+:host ::ng-deep p-card {
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    padding: 16px;
+  }
+  
+  :host ::ng-deep .p-card-header {
+    color: #1f1f1f;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  :host ::ng-deep .p-card-content {
+    font-size: 16px;
+    color: #555;
+  }
+  
